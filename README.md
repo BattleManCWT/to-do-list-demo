@@ -1,5 +1,10 @@
 # moz-todo-vue
 
+## Project description
+```
+The project is a to-do-list app running on the browser. Thank MDN Web Docs for providing me with vue turtorials.
+```
+
 ## Project setup
 ```
 npm install
